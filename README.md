@@ -1,7 +1,7 @@
 # epsi_shop
 
-first flutter project
-
+APK FILE IN : 
+/build/app/output/utter-apk/app-release.apk
 ## Getting Started
 
 This project is a starting point for a Flutter application.
